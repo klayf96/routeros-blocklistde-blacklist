@@ -3,7 +3,7 @@
 
 ######## Please edit below ########
 
-:local listType {"ssh"; "apache"; "ftp"; "bots"; "strongips"}
+:local listType {"ssh"; "ftp"; "bots"; "strongips"; "bruteforcelogin"}
 :local timeout  "3d 23:30:00"
 
 ###################################
